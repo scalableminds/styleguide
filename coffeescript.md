@@ -14,7 +14,7 @@
 
 ## require
 * No Javascript file should be used other than with requireJS.
-* External libraies might need to be shimed.
+* External libraries might need to be shimed.
 
 
 
