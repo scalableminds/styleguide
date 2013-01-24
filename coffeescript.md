@@ -10,11 +10,12 @@
 * Use camelCase for variables of all kinds, including methods and function (i.e. `isRunning`)
 * Use UNDER_SCORE for constants (i.e. `TIMEOUT`). Assign constants as elements of an array.
 * A method body is followed by two white lines. Between the declaration (parameter list) and body is one white line.
+* `value == 0` instead of `!value`
 
 
 ## require
-* No Javascript file should be used other than with requireJS.
-* External libraies might need to be shimed.
+* No Javascript file should be included other than with requireJS.
+* External libraries might need to be [shimmed](http://requirejs.org/docs/api.html#config-shim).
 
 
 

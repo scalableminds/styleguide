@@ -1,3 +1,3 @@
 # scalable minds Styleguides
 
-* [CoffeeScript](coffeescript.md)
+* [CoffeeScript](https://github.com/scalableminds/styleguide/blob/master/coffeescript.md)
