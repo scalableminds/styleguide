@@ -11,6 +11,7 @@
 * Use UNDER_SCORE for constants (i.e. `TIMEOUT`). Assign constants as elements of an array.
 * A method body is followed by two white lines. Between the declaration (parameter list) and body is one white line.
 * `value == 0` instead of `!value`
+* Use quotation marks (i.e "string") instead of apostrophes (i.e. 'string') for strings
 
 
 ## require
