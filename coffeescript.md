@@ -1,4 +1,5 @@
 # CoffeeScript
+* Use [our CoffeeScript compiler](https://github.com/scalableminds/coffee-script). Install with `sudo bin/cake install`
 
 ## Files
 * Use under_score filenames (i.e. `event_mixin.coffee`)
