@@ -14,6 +14,7 @@
 * Use camelCase for variables of all kinds, including methods and function (i.e. `isRunning`)
 * Use UNDER_SCORE for constants (i.e. `BUCKET_LENGTH`). Assign constants as prototype attributes.
 * A method body is followed by two white lines. Between the declaration (parameter list) and body is one white line.
+* When commenting an entire method, place the comment under the method declaration (above the white line)
 * `value == 0` instead of `!value`
 * Use quotation marks (i.e "string") instead of apostrophes (i.e. 'string') for strings
 
