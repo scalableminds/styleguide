@@ -17,6 +17,7 @@
 * When commenting an entire method, place the comment under the method declaration (above the white line)
 * `value == 0` instead of `!value`
 * Use quotation marks (i.e "string") instead of apostrophes (i.e. 'string') for strings
+* Always invoke methods with parentheses (i.e. `alert("Hello World")`). Even when passing event handlers.
 
 
 ## require
