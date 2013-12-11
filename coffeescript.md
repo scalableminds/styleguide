@@ -4,6 +4,7 @@
 ## General
 * Don't comment out bad/unused code. Delete it.
 * Never, ever use `my` prefix for variables, i.e. `mySwipe`.
+* Delete trailing spaces. Linters don't like them anyway. Sublime has an option `trimTrailingWhiteSpaceOnSave`
 
 ## Files
 * Use under_score filenames (i.e. `event_mixin.coffee`)
