@@ -1,5 +1,5 @@
 # CoffeeScript
-* Use [our CoffeeScript compiler](https://github.com/scalableminds/coffee-script). Install with `npm install -g git://github.com/scalableminds/coffee-script.git`
+* Precompile with [require-sugar](https://github.com/scalableminds/require-sugar)
 
 ## General
 * Carefully examine the project's other code to find out about the applied coding style. Try to mimic the coding style as close as possible.
